@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productrpdate",
+        "uuid": 4618368,
+        "checksum": "lb4uva"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
